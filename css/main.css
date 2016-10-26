@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  margin 0;
+  border: 2px solid #595652;
 }
 
 header {
@@ -39,4 +39,8 @@ h1 {
   background-color: #713837;
   border-radius: 4px;
   margin: 0.3em;
+}
+
+.nav a:hover {
+  background-color: #dbd6cf;
 }

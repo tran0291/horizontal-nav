@@ -1,5 +1,4 @@
 html {
-  font-family: Bevan, cursive;
   line-height: 1.5;
   color: #fff;
   background-color: #dbd6cf;
@@ -20,10 +19,10 @@ header {
 }
 
 h1 {
+  font-family: Bevan, serif;
   margin: 0;
   text-align: center;
   background-color: #79756f;
-  font-family: Georgia, sans-serif;
 }
 
 .nav {
